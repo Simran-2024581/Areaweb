@@ -13,7 +13,7 @@ It lets the user calculate the **area** of four two-dimensional shapes:
 
 The page uses **internal CSS** and **internal JavaScript**, as required in the assignment.
 
----
+
 
 ## 1. How to Open the Project
 
@@ -24,7 +24,7 @@ The page uses **internal CSS** and **internal JavaScript**, as required in the a
 
 You do **not** need any server or extra software. Only a browser is required.
 
----
+
 
 ## 2. How the Page Works
 
@@ -43,7 +43,7 @@ Each shape section:
 - Shows the **result** in a read-only text box.
 - Uses a small blue glow animation when the result is updated.
 
----
+
 
 ## 3. JavaScript Functions
 
@@ -78,7 +78,7 @@ There is also a helper function:
 - **`highlightResult(id)`**  
   - Adds a short animation around the result field to show that a new value was calculated.
 
----
+
 
 ## 4. CSS and Layout (Assignment Requirements)
 
@@ -103,7 +103,7 @@ There is also a helper function:
 
 The background of the page uses a **soft gradient** to make it look modern and clean.
 
----
+
 
 ## 5. Possible Future Improvements
 
@@ -111,4 +111,5 @@ The background of the page uses a **soft gradient** to make it look modern and c
 - Show error messages near the input instead of using `alert`.
 - Add input placeholders with examples (for example: “e.g., 5.5”).
 - Add reset buttons for each section.
+
 
