@@ -1,4 +1,7 @@
 # Basic Geometry – Area Calculator (HTML, CSS, JavaScript)
+Live link:-
+https://simran-2024581.github.io/Areaweb/
+
 
 This project is a simple **Basic Geometry Area Calculator** web page.  
 It lets the user calculate the **area** of four two-dimensional shapes:
@@ -108,3 +111,4 @@ The background of the page uses a **soft gradient** to make it look modern and c
 - Show error messages near the input instead of using `alert`.
 - Add input placeholders with examples (for example: “e.g., 5.5”).
 - Add reset buttons for each section.
+
